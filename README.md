@@ -1,4 +1,4 @@
-# **App_trader**
+# **App_trader** [SQL](https://github.com/H-Getu/App_traders/blob/main/SQL/App_trader.sql)[PowerBi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjE4ZDRiZDQtYWM2Ny00N2Y1LWE2N2ItMWMwM2YyYTIxMTA0IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9) 
 
 Your team has been hired by a new company called App Trader to help them explore and gain insights from apps that are made available through the Apple App Store and Android Play Store. App Trader is a broker that purchases the rights to apps from developers in order to market the apps and offer in-app purchase.
 
